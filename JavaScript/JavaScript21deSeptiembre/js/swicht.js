@@ -1,0 +1,3 @@
+mostar()
+
+swicht(op); 
